@@ -97,6 +97,7 @@ public class XfinityStartButton {
 
 		} else if (downloadSpeed >= 100) {
 			System.out.println("SuperFast Download Speed...");
+			System.out.println("Fast fast");
 		}
 
 		System.out.println("Now we are looking for upload speed");
